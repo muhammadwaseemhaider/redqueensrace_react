@@ -73,14 +73,7 @@ function App() {
     playbackRate: 1,
     iterations: Infinity
   },
-  /*
-  onUpdate: ({ playState, animate, animation }) => {
-    // Triggered when the animation enters the running state or changes state
-    console.log("Playstate ", playState)
-    console.log("Animate ", animate)
-    console.log("Animation ", animation)
-  },
-  */
+
   });
   
   /* Alice tires so easily! 
